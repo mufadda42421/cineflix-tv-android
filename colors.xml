@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_bg">#FF080808</color>
+    <color name="obsidian_surface">#FF0E0E12</color>
+    <color name="crimson_accent">#FFE50914</color>
+</resources>
